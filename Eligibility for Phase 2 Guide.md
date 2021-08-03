@@ -32,6 +32,7 @@
 * Correct answers will NOT be revealed
 * All of the questions will be purely based on the course content. That is, you will be able to understand all of the questions if you've finished the course.
 * The results of the quiz will be available on October 21st. However, it will only say if you've scored 45 (or above) or not
+* According to Zacks Shen: Around 70 ~ 80% of the quiz questions are from the course. The remaining 20% - 30% are not included in the course. An example of a topic not covered is Python memory management: How does the Python interpreter manage the memory? What kind of memory does a variable, class, and object use? Why shouldn’t we use the global variables?
 
 ### Phase 2 benefits
 * Resume review from AWS (needs further confirmation)
