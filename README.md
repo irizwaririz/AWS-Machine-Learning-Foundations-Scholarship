@@ -32,7 +32,5 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
  
  Do :star: this repository to keep a track of the course. 
  
- Made with :heart: by [Shivansh](https://github.com/Shivansh2407)
- 
  
 
