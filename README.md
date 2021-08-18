@@ -11,8 +11,8 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
 2 | Introduction to Machine Learning |  &#9745;
 3 | Machine Learning with AWS |  &#9745;
 4 | Software Engineering Practices, part 1 |  &#9745;
-5 | Software Engineering Practices, part 2 |  &#9746;
-6 | Object-Oriented Programming |  &#9744;
+5 | Software Engineering Practices, part 2 |  &#9745;
+6 | Object-Oriented Programming |  &#9746;
 7 | AWS ML Foundations Assessment | &#9744;
 
 ## Status Definitions
