@@ -12,7 +12,7 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
 3 | Machine Learning with AWS |  &#9745;
 4 | Software Engineering Practices, part 1 |  &#9745;
 5 | Software Engineering Practices, part 2 |  &#9745;
-6 | Object-Oriented Programming |  &#9746;
+6 | Object-Oriented Programming |  &#9745;
 
 ## Status Definitions
  &#9744; Means that the particular Chapter is not started yet 👍 <br>
