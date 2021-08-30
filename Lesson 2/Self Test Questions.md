@@ -93,7 +93,7 @@ NOTE: **The questions might provide clues to the previous questions so skipping 
     <details>
       <summary>Show answer</summary>
 
-      Impute
+      Imputation
 
     </details>
 
@@ -143,7 +143,7 @@ NOTE: **The questions might provide clues to the previous questions so skipping 
     <details>
       <summary>Show answer</summary>
 
-      Use the training data to iteratively update model parameters to minimize some loss function
+      Use the training data to iteratively update model parameters to minimize some loss (which is computed from some loss/error function)
 
       Key processes:
       1. Feed training data to model / use the model to process the data
