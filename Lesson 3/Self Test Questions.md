@@ -114,7 +114,7 @@ NOTE: **The questions might provide clues to the previous questions so skipping 
 
     </details>
 
-* True or False: The learning objective of reinforcement learning (RL) is to maximize the total cumulative record.
+* True or False: The learning objective of reinforcement learning (RL) is to maximize the total cumulative reward.
     <details>
       <summary>Show answer</summary>
 
