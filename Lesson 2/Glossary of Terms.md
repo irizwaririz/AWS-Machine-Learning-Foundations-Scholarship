@@ -31,8 +31,8 @@ is used to calculate how uncertain your model is about the predictions it is gen
 **Hyperplane:**<br>
 A mathematical term for a surface that contains more than two planes.
 
-**Impute:**<br>
-is a common term referring to different statistical tools which can be used to calculate missing values from your dataset.
+**Imputation:**<br>
+is a common term referring to the use of different statistical tools to calculate missing values from a dataset.
 
 **Label:**<br>
 refers to data that already contains the solution.
